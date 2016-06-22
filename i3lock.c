@@ -24,7 +24,7 @@
 #include <sys/mman.h>
 #include <xkbcommon/xkbcommon.h>
 #include <xkbcommon/xkbcommon-x11.h>
-#include <cairo.h>
+#include <cairo/cairo.h>
 #include <cairo/cairo-xcb.h>
 
 #include "i3lock.h"

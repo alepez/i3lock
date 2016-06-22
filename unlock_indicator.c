@@ -12,7 +12,7 @@
 #include <math.h>
 #include <xcb/xcb.h>
 #include <ev.h>
-#include <cairo.h>
+#include <cairo/cairo.h>
 #include <cairo/cairo-xcb.h>
 #include <time.h>
 
